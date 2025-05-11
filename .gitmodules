@@ -1,0 +1,3 @@
+[submodule "sql-server-samples"]
+	path = sql-server-samples
+	url = https://github.com/microsoft/sql-server-samples.git
